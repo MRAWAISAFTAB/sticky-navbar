@@ -19,7 +19,8 @@
   /* Page content */
   .content {
     padding: 16px;
-    height: 50px;
+    height: 100px;
+    text-align: center;
   }
   .content2 {
     padding: 16px;
